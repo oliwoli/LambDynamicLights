@@ -121,3 +121,5 @@ Check [this documentation](https://github.com/LambdAurora/LambDynamicLights/blob
 [Sodium]: https://www.curseforge.com/minecraft/mc-mods/sodium "Sodium CurseForge page"
 [Canvas]: https://www.curseforge.com/minecraft/mc-mods/canvas-renderer "Canvas CurseForge page"
 [LambdAurora Discord]: https://discord.gg/abEbzzv
+
+
